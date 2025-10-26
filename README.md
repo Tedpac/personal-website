@@ -7,13 +7,13 @@
 2. Clone the repository:
 
    ```shell
-   git clone https://github.com/Tedpac/tedpac.github.io.git
+   git clone https://github.com/Tedpac/personal-website.git
    ```
 
 3. Navigate to the project directory:
 
    ```shell
-   cd tedpac.github.io
+   cd personal-website
    ```
 
 4. Install the dependencies:
@@ -49,8 +49,8 @@ To test the application, use the development server by running `npm run start`.
 
 ### Deployment
 
-Pushing the changes that are in the `main` branch will trigger a GitHub Actions workflow to deploy
-the changes to GitHub Pages automatically.
+Pushing the changes that are in the `main` branch will trigger an automatic deployment to Cloudflare
+Pages.
 
 ## Credits
 
